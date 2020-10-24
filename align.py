@@ -5,7 +5,7 @@ from eflomal import read_text, write_text, align
 import sys, argparse, random, os, io
 from tempfile import NamedTemporaryFile
 
-TMP_DIR = "/opt/tmp/"
+TMP_DIR = "/opt/"
 
 
 def main():
